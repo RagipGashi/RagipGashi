@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RagipGashi
-- 👀 I’m a Web Developer
+- 👀 I’m a Software Developer with the focus in Web Development
 - 🌱 I’m currently using ReactJS to build something new
 - 💞️ I’m looking to collaborate on my new Projects
 - 📫 How to reach me:
