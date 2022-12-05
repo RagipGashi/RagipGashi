@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RagipGashi
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning ReactJS
+- 👀 I’m a Web Developer
+- 🌱 I’m currently using ReactJS to build something new
 - 💞️ I’m looking to collaborate on my new Projects
 - 📫 How to reach me:
 - [Linkedin](https://www.linkedin.com/in/ragip-gashi-2b147542/)
